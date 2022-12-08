@@ -1,4 +1,4 @@
-# Authors: Marthely237 & chileshe  & Doreen
+# Authors: Marthely237
 
 # Resutaurant Management System (RMS)
 ## Execute
