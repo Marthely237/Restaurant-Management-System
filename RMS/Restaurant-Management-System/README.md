@@ -1,6 +1,6 @@
 # Authors: Marthely237
 
-# Resutaurant Management System (RMS)
+# Restaurant Management System (RMS)
 ## Execute
 #If you don't have Java installed on your PC, slimply run the "RMS_GUI.exe" file and you will have full access to our program
 # You can also change the file extension to run it as .dart file
